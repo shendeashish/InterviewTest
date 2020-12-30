@@ -1,0 +1,19 @@
+{
+    "MongoDB": {
+        "user": "pmn",
+        "password": "b7AlLjBE",
+        "host": "localhost",
+        "port": 27017,
+        "dbName": "pmnDBv2"
+    },"Jwt": {
+        "secretKey": "7d88b6aeab988034d37ed740dba72de9",
+        "expiresIn": "30d"
+    },
+    "MSG91": {
+        "country": 91,
+        "sender": "padmini",
+        "authkey": "330450AmK31KvcWC5ece5237P1",
+        "otp_expiry": 10,
+        "template_id": "5ddb7aefd6fc057463797dfb"
+    }
+}
